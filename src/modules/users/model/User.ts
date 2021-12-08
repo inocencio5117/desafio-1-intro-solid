@@ -5,9 +5,9 @@ class User {
 
   name: string;
 
-  admin: boolean;
-
   email: string;
+
+  admin: boolean;
 
   created_at: Date;
 
